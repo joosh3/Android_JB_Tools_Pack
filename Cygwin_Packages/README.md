@@ -1,3 +1,8 @@
+Cygwin Packages for Windows
+===========================
+
+### How to install:
+
 1) Unzip the contents of this archive
 2) Run Setup.exe
 3) Select "Install from Local Directory"
