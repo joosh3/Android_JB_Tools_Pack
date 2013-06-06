@@ -5,10 +5,10 @@ Set the PATH once Java is installed.
 Depending on which one is installed, navigate to 
 
 
-     "C:\Program Files\Java\jre7\bin" 
-     "C:\Program Files (x86)\Java\jre7\bin"
-     "C:\Program Files\Java\jre6\bin"
-     "C:\Program Files (x86)\Java\jre6\bin"
+    * "C:\Program Files\Java\jre7\bin" 
+    * "C:\Program Files (x86)\Java\jre7\bin"
+    * "C:\Program Files\Java\jre6\bin"
+    * "C:\Program Files (x86)\Java\jre6\bin"
 
 
 
@@ -17,10 +17,10 @@ Then go to My Computer/System Properties/Advanced system settings/Environment Va
 Search for PATH variable and paste the proper java path at the end of it:
 
 
-     ;C:\Program Files\Java\jre7\bin 
-     ;C:\Program Files (x86)\Java\jre7\bin
-     ;C:\Program Files\Java\jre6\bin
-     ;C:\Program Files (x86)\Java\jre6\bin
+    * ;C:\Program Files\Java\jre7\bin 
+    * ;C:\Program Files (x86)\Java\jre7\bin
+    * ;C:\Program Files\Java\jre6\bin
+    * ;C:\Program Files (x86)\Java\jre6\bin
 
 
 According to which Java version you installed.
