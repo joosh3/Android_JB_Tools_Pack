@@ -1,0 +1,2 @@
+to sign apk :
+java -jar SignApk.jar testkey.x509.pem testkey.pk8 <yourwhatsappname>.apk <yourwhatsappname>_signed.apk
